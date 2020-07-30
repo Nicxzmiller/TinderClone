@@ -1,0 +1,13 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 2px solid #f9f9f9;
+}
+
+.tinder{
+    color: #FF7051;
+    height: 40px;
+    object-fit: contain;
+}
