@@ -12,21 +12,21 @@ function Chats() {
                 profilePic="https://www.shortlist.com/media/imager/201905/16447-posts.article_md.jpg"
             />
             <Chat
-                name="Mark"
-                message="Yo whatsup!"
-                timestamp="40 seconds ago"
+                name="Jeff"
+                message="Hey, how are you?"
+                timestamp="1 week ago"
                 profilePic="https://www.shortlist.com/media/imager/201905/16447-posts.article_md.jpg"
             />
             <Chat
-                name="Mark"
-                message="Yo whatsup!"
-                timestamp="40 seconds ago"
+                name="Allen"
+                message="i'm in town, wanna hangout?"
+                timestamp="3 minutes ago"
                 profilePic="https://www.shortlist.com/media/imager/201905/16447-posts.article_md.jpg"
             />
             <Chat
-                name="Mark"
-                message="Yo whatsup!"
-                timestamp="40 seconds ago"
+                name="Qaz"
+                message="Don't be late"
+                timestamp="5 seconds ago"
                 profilePic="https://www.shortlist.com/media/imager/201905/16447-posts.article_md.jpg"
             />
 
